@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/a14776/oss/iOS/RxSwift/Test.playground">
+   </FileRef>
+   <FileRef
       location = "group:Rx.playground">
    </FileRef>
    <FileRef
