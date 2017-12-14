@@ -11,7 +11,7 @@ do {
             print("[map]", x)
             return x
         }
-        .share(replay:0, scope:.whileConnected)
+        .share(replay:0, scope: .whileConnected)
 
     print("--- 1 ---")
     o.subscribe(onNext: { print("[sink1]", $0) })
